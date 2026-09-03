@@ -1,26 +1,85 @@
-<h1 align="center">Hi 👋, I'm Shreya H S</h1>
+<h1 align="center">Hi, I'm Shreya 👋</h1> <h3 align="center">AI / ML Engineer · CS grad/h3>
 
-# 💫 About Me:
-🔭 I’m currently working on my AI/ML projects<br>👯 I’m looking to collaborate on ML and python projects<br>🌱 I’m currently learning ML<br>💬 Ask me about anything related to AI/ML
+<p align="center"> Building practical AI systems with a focus on GenAI, LLM security, automation, and reliable ML engineering. </p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shreya-h-s) 
-[![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=medium&logoColor=black&labelColor=white&color=white)](https://medium.com/@shreyahs2004)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shrehs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shrehs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrehs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shrehs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center"> <a href="https://linkedin.com/in/shreya-h-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://medium.com/@shreyahs2004"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a> </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shrehs&icon=8&color=0)](https://visitcount.itsvg.in)
+ 
+### 🔭 What I'm working on
 
+- **AI threat modeling & LLM security** — mapping vulnerabilities to MITRE ATLAS and the OWASP LLM Top 10, and building guardrails around production GenAI systems
+- **RAG & LLM benchmarking** at Siemens Healthineers — designing evaluation frameworks and inference-optimization pipelines for LLMs in a regulated healthcare setting
+- **Multi-step agentic workflows** with LangGraph, orchestrated through Azure CI/CD
+- **A Snowflake-integrated QA bot** for automated testing and data validation
+- Sharpening low-level design fundamentals through a structured, self-directed study program
+
+## 💼 Industry Experience
+
+Siemens Healthineers — GenAI / Automation Engineering
+
+Worked on enterprise AI initiatives involving:
+
+RAG evaluation and benchmarking
+LLM inference and evaluation workflows
+AI-assisted quality and process automation
+Multi-step agentic workflows
+Data extraction and validation pipelines
+AI security and threat modeling
+Cloud-based orchestration and automation
+
+Note: Some of this work was developed within Siemens Healthineers' internal environment and therefore isn't publicly available on GitHub.
+
+### 🧠 Featured projects
+ 
+| Project | What it does |
+|---|---|
+| [**llm-security-gateway**](https://github.com/shrehs/llm-security-gateway) | Enterprise-grade LLM security gateway (FastAPI) with pluggable scanners, policy-as-code, RBAC, and OWASP LLM Top 10 mapping — Dockerized with a GitHub Actions CI pipeline |
+| [**architect-rl-env**](https://github.com/shrehs/architect-rl-env) | A reinforcement-learning environment built on a two-phase consultant→architect decision engine (constraint elicitation, trade-off reasoning, contradiction detection, ADR-style export) — features a three-layer state structure, multi-path scoring, and adversarial "chaos modes" |
+| [**ForensAI**](https://github.com/shrehs/ForensAI) | Open-source AI pipeline for crime-scene analysis: NLP for FIR parsing, RAG for case-similarity search, and case profiling |
+| [**ride_sharing_demand_autogluon**](https://github.com/shrehs/ride_sharing_demand_autogluon) | Ride-sharing demand forecasting tackled via AutoGluon, from a Kaggle challenge |
+
+### 🏆 Highlights
+ 
+- 🎓 Delegate, **Harvard Project for Asian and International Relations (HPAIR)**
+- 📜 Patent credit from a research assistantship at VTU
+- 🏎️ Top 500 globally, **AWS AI/ML Scholarship**, via PPO-based reinforcement learning in the AWS DeepRacer Student League
+- 🌱 Open-source contributor — **GirlScript Summer of Code** & **Hacktoberfest**
+- ✍️ Writes on [Medium](https://medium.com/@shreyahs2004), documenting the engineering work behind these projects
+
+### 🛠️ Tech Stack
+
+**Languages & Core**
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+
+**Infra & Data**
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### 📊 GitHub stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shrehs&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shrehs&theme=dark&hide_border=false"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrehs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+
+---
+
+<p align="center"><i>Open to opportunities in GenAI engineering, LLM security, and applied ML — let's connect.</i></p>
