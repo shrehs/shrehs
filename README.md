@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shreya 👋</h1> <h3 align="center">AI / ML Engineer · CS grad/h3>
+<h1 align="center">Hi, I'm Shreya 👋</h1> <h3 align="center">AI / ML Engineer · CS grad 2026 </h3>
 
 <p align="center"> Building practical AI systems with a focus on GenAI, LLM security, automation, and reliable ML engineering. </p>
 
